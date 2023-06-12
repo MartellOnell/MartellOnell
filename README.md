@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**MartellOnell/MartellOnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m a Web Developer
+- 📦 Looking for Web Development Projects
+- 🧬Discord : 0x1D0-Z#6771
+- 
+## 🔧 Skills & Tools
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/OS-Win10-informational?style=flat&logo=windows&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Shell-Bash%20/%20ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=99e836)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📲 Social Links
+
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/S_tartarus)
