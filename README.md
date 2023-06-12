@@ -2,7 +2,7 @@
 
 - 💻 I’m a Web Developer
 - 📦 Looking for Web Development Projects
-- 🧬Discord : 0x1D0-Z#6771
+- 🧬 Discord : 0x1D0-Z#6771
 
 ## 🔧 Skills & Tools
 
