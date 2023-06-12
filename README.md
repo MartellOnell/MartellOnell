@@ -1,9 +1,9 @@
-### Hi there 👋
+### 👋 Hi there
 
 - 💻 I’m a Web Developer
 - 📦 Looking for Web Development Projects
 - 🧬Discord : 0x1D0-Z#6771
-- 
+
 ## 🔧 Skills & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
