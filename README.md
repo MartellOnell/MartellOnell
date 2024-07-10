@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- 💻 I’m a Web Developer
+- 💻 I’m a Web Backend Developer
 - 📦 Looking for Web Development Projects
 - 🧬 Discord : 0x1D0-Z#6771
 
