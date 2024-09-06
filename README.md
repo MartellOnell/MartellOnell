@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 - 💻 I’m a Web Backend Developer
-- 📦 Looking for Web Development Projects
+- 📦 django dev
 - 🧬 Discord : 0x1D0-Z#6771
 
 ## 🔧 Skills & Tools
