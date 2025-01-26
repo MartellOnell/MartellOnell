@@ -2,6 +2,7 @@
 
 - 💻 I’m a Web Backend Developer
 - 📦 django dev
+- 👾 learning golang
 - 🧬 Discord : 0x1D0-Z#6771
 
 ## 🔧 Skills & Tools
