@@ -1,8 +1,8 @@
 ### 👋 Hi there
 
 - 💻 I’m a Web Backend Developer
-- 📦 django dev
-- 👾 learning golang
+- 📦 python django dev
+- 🥷 training golang on some deals (gorilla mux, grpc, net/http)
 - 🧬 Discord : 0x1D0-Z#6771
 
 ## 🔧 Skills & Tools
